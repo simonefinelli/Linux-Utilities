@@ -40,6 +40,8 @@ two new custom rules have been created:
 An important take to do to make these custom rules working, is to set the 
 `Diversion` property in the default window. Otherwise, the changes will 
 not be taken into consideration.
+
 ![solaar_smart_shift.png](..%2Fasset%2Fimgs%2Fsolaar_smart_shift.png)
+
 ![solaar_gesture_button.png](..%2Fasset%2Fimgs%2Fsolaar_gesture_button.png)
 - - -
